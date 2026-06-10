@@ -8,6 +8,9 @@ from database import get_db
 from models import ChatSession
 from models import Message
 from schemas import CreateChatSession
+from schemas import ChatRequest
+from rag import ask_question
+
 
 router = APIRouter()
 
