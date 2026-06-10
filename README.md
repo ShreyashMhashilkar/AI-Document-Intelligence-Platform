@@ -129,5 +129,3 @@ http://localhost:8000/docs
 
 Shreyash Mhashilkar
 
-* GitHub: https://github.com/ShreyashMhashilkar
-* LinkedIn: Add Your LinkedIn Profile Link
